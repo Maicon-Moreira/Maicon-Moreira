@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maicon-moreira" alt="maicon-moreira" /></a> </p>
 
-- 🔭 I’m currently working on [Partnr](https://github.com/PartnrTechnologies)
+- 🔭 I’m currently working at [Rox Partner](https://roxpartner.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maicon-Moreira](https://github.com/Maicon-Moreira)
 
-- 📫 How to reach me **maicon@partnr.ai**
+- 📫 How to reach me **maiconmoreirapira@gmail.com**
 
 - ⚡ Fun fact **I love to create AI that create AI**
 
